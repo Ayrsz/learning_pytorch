@@ -1,4 +1,9 @@
-PyTorch é uma das principais bibliotecas para Inteligência Artificial e aprendizado profundo:
-- Treinamento flexível: Permite construir e ajustar redes neurais de forma intuitiva, facilitando experimentação e pesquisa.
-- Autograd e otimização: Possui um poderoso sistema de diferenciação automática e suporte a diversos otimizadores para treinar modelos de IA.
-- Aceleração com GPU: Aproveita o poder das GPUs para treinar redes neurais de forma eficiente.
+Manipulação de Tensores no PyTorch
+
+Repositório com exemplos e testes de manipulação de tensores usando PyTorch. A ideia é entender melhor como os tensores funcionam e como otimizá-los para diferentes aplicações.
+O que tem aqui?
+
+📌 Criação de tensores
+📌 Operações básicas (soma, multiplicação, transposição, etc.)
+📌 Manipulação de dimensões
+📌 Uso de GPU (se disponível)
